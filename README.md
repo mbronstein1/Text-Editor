@@ -1,4 +1,4 @@
-# Text-Editor-Challenge-19
+# Text Editor
 
 ## Description
 This is the nineteenth challenge in the Northwestern Coding Bootcamp (Module 19). In this module, we learned about PWAs (Progressive Web Apps), which prepare an application to be used by users offline, whether through the browser or downloaded and viewed in a separate window. While given a large amount of starter code, we were expected to write the code to store data in the browser DB (indexedDB), create and activate Service Workers with the InjectManifest NPM package, and bundle everything using Webpack. The functioning application should allow the user to write and delete notes in this text editor, as well as install the application on the user's local machine.
